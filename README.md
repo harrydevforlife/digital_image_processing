@@ -12,8 +12,6 @@ This is my digital image processing's  project, this using the facebook's model 
 This is home page of detection website. 
 ![](./images/home-page.png)
 
-![](./images/home-page-detect.png)
-
 Home page after recognize.
 
 ----------------------------------
